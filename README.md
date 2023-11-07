@@ -1,2 +1,3 @@
 # Demo
-This is my first repo.
+This is my Git first repo.
+author: Merajul
